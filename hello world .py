@@ -1,0 +1,1 @@
+print("hello word!\nHow are you?")#quebra de linha\n
