@@ -1,0 +1,18 @@
+#Arquivos
+
+#função open
+
+#variavel = open (nome, modo)
+
+# r = somente leitura
+# w = escrita (caso o arquivo exista ele será apagado e um novo arquivo vazio será criado)
+# a = leitura e escrita (adiciona o novo conteudo ao fim do arquivo)
+# r+ = leitura e escrita
+# w+ = escrita ( o modo w+, assim como o w, também apaga o conteúdo anterior do arquivo)
+# a+ = leitura e escrita (abre o arquivo para atualização)#
+
+#read() lê o arquivo inteiro
+#readline() lê uma linha
+#readlines() lê o arquivo e armazena em uma lista
+
+
